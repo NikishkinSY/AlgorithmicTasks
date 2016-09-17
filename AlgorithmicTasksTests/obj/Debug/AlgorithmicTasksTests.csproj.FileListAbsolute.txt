@@ -1,0 +1,9 @@
+C:\Users\Sergey\Documents\Visual Studio 2015\Projects\AlgorithmicTasks\AlgorithmicTasksTests\bin\Debug\AlgorithmicTasksTests.dll
+C:\Users\Sergey\Documents\Visual Studio 2015\Projects\AlgorithmicTasks\AlgorithmicTasksTests\bin\Debug\AlgorithmicTasksTests.pdb
+C:\Users\Sergey\Documents\Visual Studio 2015\Projects\AlgorithmicTasks\AlgorithmicTasksTests\bin\Debug\AlgorithmicTasks.exe
+C:\Users\Sergey\Documents\Visual Studio 2015\Projects\AlgorithmicTasks\AlgorithmicTasksTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Sergey\Documents\Visual Studio 2015\Projects\AlgorithmicTasks\AlgorithmicTasksTests\bin\Debug\AlgorithmicTasks.pdb
+C:\Users\Sergey\Documents\Visual Studio 2015\Projects\AlgorithmicTasks\AlgorithmicTasksTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Sergey\Documents\Visual Studio 2015\Projects\AlgorithmicTasks\AlgorithmicTasksTests\obj\Debug\AlgorithmicTasksTests.csprojResolveAssemblyReference.cache
+C:\Users\Sergey\Documents\Visual Studio 2015\Projects\AlgorithmicTasks\AlgorithmicTasksTests\obj\Debug\AlgorithmicTasksTests.dll
+C:\Users\Sergey\Documents\Visual Studio 2015\Projects\AlgorithmicTasks\AlgorithmicTasksTests\obj\Debug\AlgorithmicTasksTests.pdb

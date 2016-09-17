@@ -1,0 +1,6 @@
+c:\users\sergey\documents\visual studio 2015\Projects\AlgorithmicTasks\AlgorithmicTasks\bin\Debug\AlgorithmicTasks.exe.config
+c:\users\sergey\documents\visual studio 2015\Projects\AlgorithmicTasks\AlgorithmicTasks\obj\Debug\AlgorithmicTasks.csprojResolveAssemblyReference.cache
+c:\users\sergey\documents\visual studio 2015\Projects\AlgorithmicTasks\AlgorithmicTasks\bin\Debug\AlgorithmicTasks.exe
+c:\users\sergey\documents\visual studio 2015\Projects\AlgorithmicTasks\AlgorithmicTasks\bin\Debug\AlgorithmicTasks.pdb
+c:\users\sergey\documents\visual studio 2015\Projects\AlgorithmicTasks\AlgorithmicTasks\obj\Debug\AlgorithmicTasks.exe
+c:\users\sergey\documents\visual studio 2015\Projects\AlgorithmicTasks\AlgorithmicTasks\obj\Debug\AlgorithmicTasks.pdb
