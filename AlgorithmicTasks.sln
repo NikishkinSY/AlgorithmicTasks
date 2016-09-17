@@ -7,7 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmicTasks", "Algorit
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{12BC5E91-E573-493B-A4AB-C9CD4D1C5327}"
 	ProjectSection(SolutionItems) = preProject
-		LastQuestion.txt = LastQuestion.txt
+		SixQuestion.txt = SixQuestion.txt
+		ThirdQuestion.txt = ThirdQuestion.txt
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmicTasksTests", "AlgorithmicTasksTests\AlgorithmicTasksTests.csproj", "{E057A8AF-57D7-49EE-9116-8B0FA3EC4A32}"

@@ -4,3 +4,6 @@ c:\users\sergey\documents\visual studio 2015\Projects\AlgorithmicTasks\Algorithm
 c:\users\sergey\documents\visual studio 2015\Projects\AlgorithmicTasks\AlgorithmicTasks\bin\Debug\AlgorithmicTasks.pdb
 c:\users\sergey\documents\visual studio 2015\Projects\AlgorithmicTasks\AlgorithmicTasks\obj\Debug\AlgorithmicTasks.exe
 c:\users\sergey\documents\visual studio 2015\Projects\AlgorithmicTasks\AlgorithmicTasks\obj\Debug\AlgorithmicTasks.pdb
+G:\!My\C#\Repos\AlgorithmicTasks\AlgorithmicTasks\bin\Debug\AlgorithmicTasks.exe.config
+G:\!My\C#\Repos\AlgorithmicTasks\AlgorithmicTasks\obj\Debug\AlgorithmicTasks.exe
+G:\!My\C#\Repos\AlgorithmicTasks\AlgorithmicTasks\obj\Debug\AlgorithmicTasks.pdb

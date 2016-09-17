@@ -1,0 +1,1 @@
+Both operations have Complexity O(m+n) where m and n are lengths of input arrays
